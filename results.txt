@@ -1,0 +1,173 @@
+Epoch [1 / 20], Batch [1 / 660], Loss: 3.88060
+
+Epoch [1 / 20], Batch [201 / 660], Loss: 2.01679
+
+Epoch [1 / 20], Batch [401 / 660], Loss: 1.24264
+
+Epoch [1 / 20], Batch [601 / 660], Loss: 0.99004
+
+For the 1 epoch the loss is about: 1.72990...
+Epoch [2 / 20], Batch [1 / 660], Loss: 1.15477
+
+Epoch [2 / 20], Batch [201 / 660], Loss: 1.09672
+
+Epoch [2 / 20], Batch [401 / 660], Loss: 1.43006
+
+Epoch [2 / 20], Batch [601 / 660], Loss: 0.92326
+
+For the 2 epoch the loss is about: 0.92197...
+Epoch [3 / 20], Batch [1 / 660], Loss: 0.72781
+
+Epoch [3 / 20], Batch [201 / 660], Loss: 0.43205
+
+Epoch [3 / 20], Batch [401 / 660], Loss: 0.37773
+
+Epoch [3 / 20], Batch [601 / 660], Loss: 0.66713
+
+For the 3 epoch the loss is about: 0.74340...
+Epoch [4 / 20], Batch [1 / 660], Loss: 0.47777
+
+Epoch [4 / 20], Batch [201 / 660], Loss: 0.32375
+
+Epoch [4 / 20], Batch [401 / 660], Loss: 0.56972
+
+Epoch [4 / 20], Batch [601 / 660], Loss: 0.34108
+
+For the 4 epoch the loss is about: 0.60763...
+Epoch [5 / 20], Batch [1 / 660], Loss: 0.76078
+
+Epoch [5 / 20], Batch [201 / 660], Loss: 1.12624
+
+Epoch [5 / 20], Batch [401 / 660], Loss: 0.66860
+
+Epoch [5 / 20], Batch [601 / 660], Loss: 0.20556
+
+For the 5 epoch the loss is about: 0.51082...
+Epoch [6 / 20], Batch [1 / 660], Loss: 0.24608
+
+Epoch [6 / 20], Batch [201 / 660], Loss: 0.21404
+
+Epoch [6 / 20], Batch [401 / 660], Loss: 0.31720
+
+Epoch [6 / 20], Batch [601 / 660], Loss: 0.19612
+
+For the 6 epoch the loss is about: 0.42063...
+Epoch [7 / 20], Batch [1 / 660], Loss: 0.19410
+
+Epoch [7 / 20], Batch [201 / 660], Loss: 0.37031
+
+Epoch [7 / 20], Batch [401 / 660], Loss: 0.68719
+
+Epoch [7 / 20], Batch [601 / 660], Loss: 0.12620
+
+For the 7 epoch the loss is about: 0.37684...
+Epoch [8 / 20], Batch [1 / 660], Loss: 0.17312
+
+Epoch [8 / 20], Batch [201 / 660], Loss: 0.31567
+
+Epoch [8 / 20], Batch [401 / 660], Loss: 0.59731
+
+Epoch [8 / 20], Batch [601 / 660], Loss: 0.04757
+
+For the 8 epoch the loss is about: 0.27200...
+Epoch [9 / 20], Batch [1 / 660], Loss: 0.21507
+
+Epoch [9 / 20], Batch [201 / 660], Loss: 0.07093
+
+Epoch [9 / 20], Batch [401 / 660], Loss: 0.16648
+
+Epoch [10 / 20], Batch [401 / 660], Loss: 0.07148
+
+Epoch [10 / 20], Batch [601 / 660], Loss: 0.10919
+
+For the 10 epoch the loss is about: 0.18640...
+Epoch [11 / 20], Batch [1 / 660], Loss: 0.03233
+
+Epoch [11 / 20], Batch [201 / 660], Loss: 0.32136
+
+Epoch [11 / 20], Batch [401 / 660], Loss: 0.07457
+
+Epoch [11 / 20], Batch [601 / 660], Loss: 0.21408
+
+For the 11 epoch the loss is about: 0.14861...
+Epoch [12 / 20], Batch [1 / 660], Loss: 0.05975
+
+Epoch [12 / 20], Batch [201 / 660], Loss: 0.06269
+
+Epoch [12 / 20], Batch [401 / 660], Loss: 0.07156
+
+Epoch [12 / 20], Batch [601 / 660], Loss: 0.05020
+
+For the 12 epoch the loss is about: 0.10433...
+Epoch [13 / 20], Batch [1 / 660], Loss: 0.01425
+
+Epoch [13 / 20], Batch [201 / 660], Loss: 0.04977
+
+Epoch [13 / 20], Batch [401 / 660], Loss: 0.04454
+
+Epoch [13 / 20], Batch [601 / 660], Loss: 0.08152
+
+For the 13 epoch the loss is about: 0.08755...
+Epoch [14 / 20], Batch [1 / 660], Loss: 0.11539
+
+Epoch [14 / 20], Batch [201 / 660], Loss: 0.00275
+
+Epoch [14 / 20], Batch [401 / 660], Loss: 0.00130
+
+Epoch [14 / 20], Batch [601 / 660], Loss: 0.01126
+
+For the 14 epoch the loss is about: 0.03120...
+Epoch [15 / 20], Batch [1 / 660], Loss: 0.00886
+
+Epoch [15 / 20], Batch [201 / 660], Loss: 0.01417
+
+Epoch [15 / 20], Batch [401 / 660], Loss: 0.00017
+
+Epoch [15 / 20], Batch [601 / 660], Loss: 0.00561
+
+For the 15 epoch the loss is about: 0.01497...
+Epoch [16 / 20], Batch [1 / 660], Loss: 0.00044
+
+Epoch [16 / 20], Batch [201 / 660], Loss: 0.00144
+
+Epoch [16 / 20], Batch [401 / 660], Loss: 0.00025
+
+Epoch [16 / 20], Batch [601 / 660], Loss: 0.00433
+
+For the 16 epoch the loss is about: 0.01098...
+Epoch [17 / 20], Batch [1 / 660], Loss: 0.00017
+
+Epoch [17 / 20], Batch [201 / 660], Loss: 0.00184
+
+Epoch [17 / 20], Batch [401 / 660], Loss: 0.00069
+
+Epoch [17 / 20], Batch [601 / 660], Loss: 0.00073
+
+For the 17 epoch the loss is about: 0.00419...
+Epoch [18 / 20], Batch [1 / 660], Loss: 0.00034
+
+Epoch [18 / 20], Batch [201 / 660], Loss: 0.00066
+
+Epoch [18 / 20], Batch [401 / 660], Loss: 0.00013
+
+Epoch [18 / 20], Batch [601 / 660], Loss: 0.00008
+
+For the 18 epoch the loss is about: 0.00251...
+Epoch [19 / 20], Batch [1 / 660], Loss: 0.00028
+
+Epoch [19 / 20], Batch [201 / 660], Loss: 0.00004
+
+Epoch [19 / 20], Batch [401 / 660], Loss: 0.00114
+
+Epoch [19 / 20], Batch [601 / 660], Loss: 0.00061
+
+For the 19 epoch the loss is about: 0.00138...
+Epoch [20 / 20], Batch [1 / 660], Loss: 0.00017
+
+Epoch [20 / 20], Batch [201 / 660], Loss: 0.00012
+
+Epoch [20 / 20], Batch [401 / 660], Loss: 0.00111
+
+Epoch [20 / 20], Batch [601 / 660], Loss: 0.00067
+
+For the 20 epoch the loss is about: 0.00117...
